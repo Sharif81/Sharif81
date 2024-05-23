@@ -1,9 +1,25 @@
-<h1 align="center">Hi 👋, I'm ALif</h1>
-<h3 align="center">A passionate software developer with a keen interest in open-source projects and continuous learning. Welcome to my GitHub profile!</h3>
+<h1 align="center">Hi there 👋, I'm ALif</h1>
+<h3 align="left">A passionate software developer with a keen interest in open-source projects and continuous learning. Welcome to my GitHub profile!</h3>
 
-- 📫 How to reach me **sharifahamedalif@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+### 🔭 Current Projects
+I’m currently working on building scalable web applications and exploring new ways to leverage cloud technologies for improved performance and reliability.
+
+### 🌱 Learning and Development
+I’m constantly expanding my skill set and currently focusing on advanced cloud computing and DevOps practices to streamline development and deployment processes.
+
+### 👯 Collaboration Opportunities
+I'm eager to collaborate on innovative and impactful web projects. If you're working on something exciting that could benefit from my expertise, let's connect!
+
+### 💬 Ask Me About
+- Backend Development: C#, ASP.NET, ASP.NET Core
+- Frontend Development: Angular, jQuery, JavaScript, Bootstrap, HTML, CSS
+- Database: SQLServer, Oracle
+
+### 📫 How to Reach Me
+- Email: sharifahamedalif@gmail.com
+
+### 📫 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sharif-uddin-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharif-uddin-/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22590509/sharif-ahmed-alif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22590509/sharif-ahmed-alif" height="30" width="40" /></a>
